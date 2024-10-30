@@ -1,0 +1,42 @@
+li.nav-tab {
+    padding: 10px 20px;
+    background-color: #1d3557;
+    margin: 0 5px 0 0;
+    color: #f0f0f0;
+    text-transform: uppercase;
+    width: auto;
+    cursor: pointer;
+}
+li.nav-tab.nav-tab-active {
+    padding: 10px 20px;
+    background-color: #2a9d8f;
+    margin: 0 5px 0 0;
+    color: #f0f0f0;
+    text-transform: uppercase;
+    width: auto;
+}
+.mctqfw_main_container .tab-content {
+    display: none;
+}
+.mctqfw_main_container .tab-content.current {
+    display: inherit;
+}
+.mctqfw_main_container {
+    padding: 10px 20px;
+    max-width: 1300px;
+}
+form#mctqfw-add-to-cart {
+    background-color: #ffffff;
+    padding: 10px 15px;
+}
+.mctqfw_main_container h2 {
+    background-color: #5e6871;
+    padding: 11px;
+    color: white;
+}
+img.quote_cart {
+    width: 30px;
+}
+.mctqfw_style input.color-picker.wp-color-picker {
+    width: 200px !important;
+}
